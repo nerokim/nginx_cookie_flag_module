@@ -2,7 +2,7 @@
 #include <ngx_core.h>
 #include <ngx_http.h>
 
-#define NUM_FLAGS 4
+#define NUM_FLAGS 3
 #define MIN_ARGS  3
 
 typedef struct {
